@@ -43,7 +43,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Custo_Updated_On__c</field>
+                <field>Ma_Check_Box__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
