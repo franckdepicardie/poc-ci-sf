@@ -4,5 +4,6 @@ private class AP_HELLO_Test {
         AP_HELLO.tempo();
         AP_HELLO.tempo();
         AP_HELLO.tempo();
+                AP_HELLO.tempo();
     }
 }
